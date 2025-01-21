@@ -12,3 +12,6 @@ User-Friendly Interface: Simple, intuitive design for both new and experienced i
 Secure and Transparent: Powered by blockchain to ensure security and transparency in all transactions.
 🌟 Why Choose Dyna Finance?
 Dyna Finance is not just another token—it's a comprehensive tool for managing your digital assets with precision and ease. Whether you're a beginner or a seasoned investor, Dyna Finance provides the tools and insights needed to stay ahead in the fast-paced world of crypto.
+
+https://x.com/dynafinance
+https://dynafinance.com
