@@ -1,4 +1,4 @@
-# Dyna Finance ($DYNA)
+# Salzur AI ($SALZUR)
 
 **Revolutionizing Portfolio Management with Blockchain Technology**
 
@@ -12,7 +12,7 @@ Dyna Finance is a decentralized platform designed to simplify and optimize portf
 - Secure and Transparent
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/dyna-finance.git`
+1. Clone the repository: `git clone https://github.com/yourusername/salzur-ai.git`
 2. Install dependencies: `npm install`
 3. Run the application: `npm start`
 
@@ -22,5 +22,4 @@ We welcome contributions! Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md)
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-https://x.com/dynafinance
-https://dynafinance.app
+
