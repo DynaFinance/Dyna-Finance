@@ -23,3 +23,5 @@ We welcome contributions! Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md)
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
+https://x.com/salzur_ai
+https://salzurai.com/
