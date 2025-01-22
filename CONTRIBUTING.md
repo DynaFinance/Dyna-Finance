@@ -1,6 +1,6 @@
-# Contributing to Dyna Finance
+# Contributing to Salzur AI
 
-We welcome contributions to Dyna Finance! Here's how you can get started:
+We welcome contributions to Salzur AI! Here's how you can get started:
 
 ## How to Contribute
 1. Fork the repository.
