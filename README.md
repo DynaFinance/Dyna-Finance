@@ -2,7 +2,7 @@
 
 **Revolutionizing Portfolio Management with Blockchain Technology**
 
-Dyna Finance is a decentralized platform designed to simplify and optimize portfolio management for customers in the crypto space. 
+Salzur AI is a decentralized platform designed to simplify and optimize portfolio management for customers in the crypto space. 
 
 ## Features
 - Automated Portfolio Tracking
